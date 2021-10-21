@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Algolizer/static/css/main.96067209.chunk.css",
-    "main.js": "/Algolizer/static/js/main.72f4e52b.chunk.js",
-    "main.js.map": "/Algolizer/static/js/main.72f4e52b.chunk.js.map",
+    "main.js": "/Algolizer/static/js/main.d4ee0982.chunk.js",
+    "main.js.map": "/Algolizer/static/js/main.d4ee0982.chunk.js.map",
     "runtime-main.js": "/Algolizer/static/js/runtime-main.93004c4b.js",
     "runtime-main.js.map": "/Algolizer/static/js/runtime-main.93004c4b.js.map",
     "static/js/2.296e848f.chunk.js": "/Algolizer/static/js/2.296e848f.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.93004c4b.js",
     "static/js/2.296e848f.chunk.js",
     "static/css/main.96067209.chunk.css",
-    "static/js/main.72f4e52b.chunk.js"
+    "static/js/main.d4ee0982.chunk.js"
   ]
 }
